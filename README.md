@@ -6,6 +6,8 @@ Some projects I've worked on:
 ### At Penn State
 CPIG: A Multiagent System using generative AI for creativity assessment [[Code](https://github.com/Beaty-Lab/creativity-item-generation)] [[Paper](https://ceur-ws.org/Vol-3810/paper5.pdf)]
 
+Quantitative analysis of the rating process using by both AI and human experts for creativity assessment [[Code](https://github.com/Beaty-Lab/CogSci-2025-Scientific-Creativity)] [[Paper](https://arxiv.org/abs/2502.03253)]
+
 More coming soon!
 
 ### For my Ph.D.
