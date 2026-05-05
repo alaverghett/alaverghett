@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Postdoctoral Researcher at Penn State with a Ph.D. in Computer Science. My work combines AI, NLP, and Psychometrics to better understand people and machines.
+I'm an Assistant Professor at Wesleyan University with a Ph.D. in Computer Science. My work combines AI, NLP, and Psychometrics to better understand people and machines.
 
 Some projects I've worked on:
 
