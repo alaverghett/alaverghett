@@ -23,7 +23,7 @@ Predicting word acquisition norms using machine learning [[Code](https://github.
 Implementing Deep Item Response Theory in PyTorch [[Code](https://github.com/alaverghett/deep-irt-project)]
 
 ## 📫 How to reach me:
-For questions about my research, send to my email: aml7990@psu.edu
+For questions about my research, send to my email: alaverghetta@wesleyan.edu
 
 For anything else, you can find me on [LinkedIn](https://www.linkedin.com/in/antoniolaverghettajr/)
 
